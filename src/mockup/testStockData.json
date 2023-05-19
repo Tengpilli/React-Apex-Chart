@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2022-11-01",
+    "low_percentage": -2,
+    "high_percentage": 5,
+    "price": 733
+  },
+  {
+    "date": "2022-11-02",
+    "low_percentage": -6,
+    "high_percentage": 3,
+    "price": 62
+  },
+  {
+    "date": "2022-11-03",
+    "low_percentage": -1,
+    "high_percentage": 9,
+    "price": 34232342235
+  },
+  {
+    "date": "2022-11-04",
+    "low_percentage": -7,
+    "high_percentage": 1,
+    "price": 34325
+  }
+]
